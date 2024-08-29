@@ -1,3 +1,6 @@
+Dots: dataset
+Line: prediction result
+
 ![Result Image](result-image.png)
 
 # Dataset
@@ -32,8 +35,8 @@
     59,56317.5
     64,61195.5
     65,60936
-
-#Training Data
+    
+# Training Data
     	Aylar	Satislar
     0	8	19671.5
     1	10	23102.5
@@ -55,7 +58,7 @@
     23	50	56906.0
     25	55	52791.0
 
-#Test Data
+# Test Data
     	Aylar	Satislar
     2	11	18865.5
     28	64	61195.5
@@ -68,7 +71,7 @@
     17	34	41544.0
     22	49	50651.0
     
-#The Data of Prediction
+# The Data of Prediction
     20126.2
     57740.3
     30771.7
