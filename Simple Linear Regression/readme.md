@@ -1,5 +1,5 @@
-Dots: dataset <br/>
-Line: prediction result
+**Dots:** dataset <br/>
+**Line:** prediction result
 
 ![Result Image](result-image.png)
 
