@@ -71,7 +71,7 @@
     17	34	41544.0
     22	49	50651.0
     
-# The Data of Prediction
+# Prediction Result
     20126.2
     57740.3
     30771.7
