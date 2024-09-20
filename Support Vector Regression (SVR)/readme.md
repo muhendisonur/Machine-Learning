@@ -1,4 +1,4 @@
-**Note**: because of weakness the model(SVR) against marginal values, test and train data have scaled!
+**Note**: because of weakness the model(SVR) to marginal values, test and train data have scaled!
 
 **Dots    :** dataset <br/>
 **Line    :** prediction result
