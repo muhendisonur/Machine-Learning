@@ -5,15 +5,15 @@
 
 # Dataset
 	unvan	Egitim Seviyesi	maas
-    0	Cayci	            1	2250
-    1	Sekreter	        2	2500
+    0	Cayci	            	1	2250
+    1	Sekreter	    	2	2500
     2	Uzman Yardimcisi	3	3000
-    3	Uzman	            4	4000
+    3	Uzman	            	4	4000
     4	Proje Yoneticisi	5	5500
     5	Sef	                6	7500
-    6	Mudur	            7	10000
+    6	Mudur	            	7	10000
     7	Direktor	        8	15000
-    8	C-level	            9	25000
+    8	C-level	            	9	25000
     9	CEO	                10	50000
 
 
