@@ -1,0 +1,3 @@
+In this project, multiple linear regression and random forest regression compared by R-Square values in the report. Both model used same dataset. By the report, models are adjusted with new parameters and checked R-square values.
+
+Details will be added...
