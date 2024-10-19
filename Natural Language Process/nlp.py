@@ -25,7 +25,7 @@ for i in range(df.shape[0]):
     
 cv = CountVectorizer(max_features=2000)
 words_count = cv.fit_transform(preproccesed).A
-liked_situation = df.iloc[:, 1].fillna(0).values # filled very little part of data set with 0
+liked_situation = df.iloc[:, 1].fillna(0).values # filled very little part of the dataset with 0
 
 
 x_train, x_test, y_train, y_test = train_test_split(words_count, liked_situation, test_size=0.33, random_state=61)
